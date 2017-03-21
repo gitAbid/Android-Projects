@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Manga Reader/Manga Reader.iml" filepath="$PROJECT_DIR$/Manga Reader/Manga Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MangaUpdate.iml" filepath="$PROJECT_DIR$/MangaUpdate.iml" />
+    </modules>
+  </component>
+</project>
